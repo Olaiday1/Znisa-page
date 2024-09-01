@@ -1,0 +1,162 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+body {
+    justify-content: center;
+    align-items: center;
+    
+}
+.Design-container {
+    background-color: #101111;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    
+}
+
+.Card-container {
+    background-color: #101111;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    width: 700px;
+    height: 100%;
+}
+.heads {
+    width: Hug (1,091px)px;
+    height: Hug (52px)px;
+    top: 46px;
+    left: 174px;
+    gap: 202px;
+    opacity: 0px;
+    
+}
+.horizontal {
+    width: 1440px;
+    height: 568px;
+    top: 150px;
+    gap: 0px;
+    opacity: 0px;    
+}
+.merque {
+    width: Fixed (1,456px)px;
+    height: Hug (70px)px;
+    top: 719px;
+    left: -8px;
+    padding: 20px 10px 20px 10px;
+    gap: 99px;
+    border: 1px 0px 1px 0px;
+    opacity: 0px;
+}
+.process {
+ width: Hug (488px)px;
+ height: Hug (57px)px;
+ top: 880px;
+ left: 198px;
+ gap: 29px;
+ opacity: 0px;
+ background-color: #101111;
+ 
+}
+.step {
+ width: Hug (735px)px;
+ height: Fixed (924px)px;
+ top: 981px;
+ left: 171px;
+ gap: 0px;
+ opacity: 0px;
+
+}
+.img1 {
+ width: Hug (543px)px;
+ height: Hug (57px)px;
+ top: 1996px;
+ left: 198px;
+ gap: 29px;
+ opacity: 0px;
+
+}
+.img {
+ width: Fixed (1,093px)px;
+ height: Hug (655.5px)px;
+ top: 2191px;
+ left: 174px;
+ padding: 55px 0px 55px 0px;
+ gap: 107px;
+ border-radius: 9px 0px 0px 0px;
+ opacity: 0px;
+ background-color: #151515;
+}
+.img-con {
+ width: Fixed (1,093px)px;
+ height: Hug (655.5px)px;
+ top: 2889px;
+ left: 174px;
+ padding: 55px 0px 55px 0px;
+ gap: 107px;
+ border-radius: 9px 0px 0px 0px;
+ opacity: 0px;
+
+}
+.projects {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.project1 {
+ width: Hug (570px)px;
+ height: Hug (57px)px;
+ top: 5211px;
+ left: 197px;
+ gap: 29px;
+ opacity: 0px;
+
+}
+.project2 {
+ width: Hug (468.58px)px;
+ height: Hug (127px)px;
+ top: 5308px;
+ left: 205px;
+ gap: 36px;
+ opacity: 0px;
+}
+.project3 {
+ width: 392.02px;
+ height: 392.02px;
+ top: 5136px;
+ left: 851px;
+ gap: 0px;
+ opacity: 0px;
+}
+.Nav {
+ width: 1504px;
+ height: 169px;
+ top: 5612px;
+ left: -43px;
+ gap: 0px;
+ opacity: 0px;
+}
+.client {
+ width: Hug (436px)px;
+ height: Hug (57px)px;
+ top: 4400px;
+ left: 197px;
+ gap: 29px;
+ opacity: 0px;
+}
+.clients {
+    width: Hug (850px)px;
+    height: Hug (442px)px;
+    top: 4552px;
+    left: 197px;
+    gap: 40px;
+    opacity: 0px;    
+}
+@media only screen and (max-width: 1440px) {
+
+}
+@media only screen and (min-width: 320px){
+    
+}
